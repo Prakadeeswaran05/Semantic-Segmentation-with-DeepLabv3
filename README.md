@@ -5,21 +5,29 @@ First download or git clone the repository https://github.com/tensorflow/models/
 
 ## Dependencies
 
-```# For CPU ```
-```pip install tensorflow ```
-```# For GPU```
-``` pip install tensorflow-gpu ```
+```# For CPU  ``` <br/>
+```pip install tensorflow  ```<br/>
+```# For GPU ```<br/>
+``` pip install tensorflow-gpu ```<br/>
 
-``` pip install numpy ```
-``` pip install pillow ```
-``` pip install scikit-video ```
-``` pip install ffmpeg ```
+``` pip install numpy ```<br/>
+``` pip install pillow ```<br/>
+``` pip install scikit-video ```<br/>
+``` pip install ffmpeg ```<br/>
 
 
+## Code execution
 To run the code go to terminal and go to tensorflow/models/research/deep and then give this command.
+
+
+
+
+
 ``` python deeplab_cityscape.py ```
 
 You will get both original and segmented image side by side.
+
+<img src="frame.png" width="60%">
 
 
 
@@ -29,4 +37,6 @@ You will get both original and segmented image side by side.
 
 
 ###  My Output
-![](out.gif.gif)
+<p align="center">
+  <img src="out.gif.gif" />
+</p>
