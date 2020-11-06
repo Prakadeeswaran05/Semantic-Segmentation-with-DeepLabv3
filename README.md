@@ -1,6 +1,6 @@
 # Semantic-Segmentation-with-DeepLabv3
 
-First download or git clone the repository https://github.com/tensorflow/models/tree/master/research/deepla
+First download or git clone the repository https://github.com/tensorflow/models/tree/master/research/deeplab
 
 
 ## Dependencies
