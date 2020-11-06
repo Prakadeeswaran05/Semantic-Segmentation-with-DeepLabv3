@@ -35,6 +35,23 @@ You will get both original and segmented image side by side.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###  My Output
 
 
