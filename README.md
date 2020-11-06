@@ -62,6 +62,6 @@ You will get both original and segmented image side by side.
 
 
 
-<p align="left">
-  <img src="out.gif.gif" />
+<p align="centre">
+  <width="500" height="400"img src="out.gif.gif" />
 </p>
