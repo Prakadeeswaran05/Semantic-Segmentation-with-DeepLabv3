@@ -27,8 +27,7 @@ To run the code go to terminal and go to tensorflow/models/research/deep and the
 
 You will get both original and segmented image side by side.
 
-<img src="frame.png" width="60%">
-
+<img src="frame.png" width="70%">
 
 
 
@@ -37,6 +36,14 @@ You will get both original and segmented image side by side.
 
 
 ###  My Output
-<p align="center">
+
+
+
+
+
+
+
+
+<p align="left">
   <img src="out.gif.gif" />
 </p>
