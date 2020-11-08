@@ -1,8 +1,7 @@
 # Semantic-Segmentation-with-DeepLabv3
 
-First download or git clone the repository https://github.com/tensorflow/models/tree/master/research/deeplab
-
-
+First download or git clone the repository https://github.com/tensorflow/models/tree/master/research/deeplab and put 
+deeplab_cityscape.py,get_dataset_colormap.py and deeplab_mnv3_large_cityscapes_trainfine_2019_11_15.tar.gz files inside that directory. 
 ## Dependencies
 
 ```# For CPU  ``` <br/>
