@@ -16,7 +16,7 @@ deeplab_cityscape.py,get_dataset_colormap.py and deeplab_mnv3_large_cityscapes_t
 
 
 ## Code execution
-To run the code go to terminal and go to tensorflow/models/research/deep and then give this command.
+To run the code go to terminal and go to tensorflow/models/research/deeplab and then give this command.
 
 
 
