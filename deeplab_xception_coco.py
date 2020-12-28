@@ -21,10 +21,9 @@ sys.path.append('utils')
 import get_dataset_colormap
 
 _TARBALL_NAME = 'deeplab_model.tar.gz'
-#model_url = _MODEL_URLS['xception_coco_voctrainaug']
+
 
 model_dir = 'C:\\Users\\kesav\\Downloads\\tensorflow\\models\\research\\deeplab'
-#tf.io.gfile.makedirs(model_dir)
 
 file_path = os.path.join(model_dir, _TARBALL_NAME)
 
